@@ -1,0 +1,25 @@
+.icons{
+    font-size:100px;
+   
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+
+   
+}
+button{
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: 100px;
+    
+   
+   
+}
+.message{
+    text-align: center;
+    margin:20px;
+    color:orange;
+}
+body{
+    background-color:lavender
+}
